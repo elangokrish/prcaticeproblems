@@ -1,2 +1,2 @@
 # prcaticeproblems
-some coding proble,s
+some coding problems are solved here
